@@ -1,0 +1,12 @@
+{
+    "name": "rc-checkbox",
+    "description": "checkbox ui component for react",
+    "repos": "https://github.com/react-component/checkbox.git",
+    "main": "lib/index",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "classnames": "2.x"
+    },
+    "version": "1.1.2"
+}
